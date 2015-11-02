@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201" group-title="TDT", RTP1 (1) [SD]
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="TDT", RTP1 (1) [SD]
 http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
 #EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/RTP%201.png" group-title="TDT", RTP1 (2) [SD]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
