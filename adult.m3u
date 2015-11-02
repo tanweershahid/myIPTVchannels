@@ -11,12 +11,14 @@ http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
 http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
 #EXTINF:0, Ask TV 
 http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:0 , Bella Club 
+#EXTINF:0, Bella Club 
 http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
 #EXTINF:0, BabeStation X-Treme
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 #EXTINF:0, BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0, BSX
+http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
 #EXTINF:0, Boys Mania
 http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
 #EXTINF:0, ButGo
@@ -37,6 +39,8 @@ http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=ale
 http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
 #EXTINF:0, erotic 4
 http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
+#EXTINF:0, Flower (RU)
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
 #EXTINF:0, Hustler TV
 http://91.213.59.190:8000/239.0.0.199
 #EXTINF:0, HOT GIRL
@@ -75,6 +79,8 @@ http://62.210.82.241:8081/private/private/live.m3u8
 http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
 #EXTINF:0, Nuart-TV
 http://91.213.59.190:8000/239.0.1.156
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", O-LA-LA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:0, PASSI XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:0, Playy
@@ -93,8 +99,12 @@ http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
 #EXTINF:0, Venus
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:0, XXX
+#EXTINF:0, XXX0
 http://188.165.220.116:8081/live2/37/playlist.m3u8
+#EXTINF:0, XXX1
+http://188.165.220.116:8081/live/68/playlist.m3u8
+#EXTINF:0, XXX2
+http://188.165.220.116:8081/live2/43/playlist.m3u8
 #EXTINF:0, 21 Sextury.com
 http://188.165.220.116:8081/live/62/playlist.m3u8
 
@@ -102,13 +112,13 @@ http://188.165.220.116:8081/live/62/playlist.m3u8
 http://
 #EXTINF:0, Live Sex Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
-#EXTINF:0, BabeStation CAM1
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM1
 http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:0, BabeStation CAM2
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM2
 http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-#EXTINF:0, BabeStation CAM3
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM3
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:0, BabeStation CAM4
+#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM4
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
 
 
@@ -136,3 +146,103 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmas
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
 #EXTINF:-1, Adult 4K: VOD11
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:0,1
+http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
+#EXTINF:0,2
+http://ru-porn.Tv/videofile?id=14686&hq=high&ex=mp4
+#EXTINF:0,3
+http://ru-porn.Tv/videofile?id=12826&hq=high&ex=mp4
+#EXTINF:0,4
+http://ru-porn.Tv/videofile?id=13284&hq=high&ex=mp4
+#EXTINF:0,5
+http://ru-porn.tv/videofile?id=14660&hq=high&ex=mp4
+#EXTINF:0,6
+http://ru-porn.tv/videofile?id=14625&hq=high&ex=mp4
+#EXTINF:0,7
+http://ru-porn.tv/videofile?id=14336&hq=high&ex=mp4
+#EXTINF:0,8
+http://ru-porn.tv/videofile?id=14553&hq=high&ex=mp4
+#EXTINF:0,9
+http://ru-porn.tv/videofile?id=14585&hq=high&ex=mp4
+#EXTINF:0,10
+http://ru-porn.tv/videofile?id=14434&hq=high&ex=mp4
+#EXTINF:0,11
+http://ru-porn.tv/videofile?id=14556&hq=high&ex=mp4
+#EXTINF:0,12
+http://ru-porn.tv/videofile?id=14458&hq=high&ex=mp4
+#EXTINF:0,13
+http://ru-porn.tv/videofile?id=14527&hq=high&ex=mp4
+#EXTINF:0,14
+http://ru-porn.tv/videofile?id=14382&hq=high&ex=mp4
+#EXTINF:0,15
+http://ru-porn.tv/videofile?id=14441&hq=high&ex=mp4
+#EXTINF:0,16
+http://ru-porn.tv/videofile?id=14390&hq=high&ex=mp4
+#EXTINF:0,17
+http://ru-porn.tv/videofile?id=13709&hq=high&ex=mp4
+#EXTINF:0,18
+http://ru-porn.tv/videofile?id=14517&hq=high&ex=mp4
+#EXTINF:0,19
+http://ru-porn.tv/videofile?id=14345&hq=high&ex=mp4
+#EXTINF:0,20
+http://ru-porn.tv/videofile?id=14283&hq=high&ex=mp4
+#EXTINF:0,21
+http://ru-porn.tv/videofile?id=14398&hq=high&ex=mp4
+#EXTINF:0,22
+http://ru-porn.tv/videofile?id=14266&hq=high&ex=mp4
+#EXTINF:0,23
+http://ru-porn.tv/videofile?id=91&hq=high&ex=mp4
+#EXTINF:0,24
+http://ru-porn.tv/videofile?id=2359&hq=medium&ex=mp4
+#EXTINF:0,25
+http://ru-porn.tv/videofile?id=2384&hq=medium&ex=mp4
+#EXTINF:0,26
+http://ru-porn.tv/videofile?id=10743&hq=medium&ex=mp4
+#EXTINF:0,27
+http://ru-porn.tv/videofile?id=10766&hq=high&ex=mp4
+#EXTINF:0,28
+http://ru-porn.tv/videofile?id=10789&hq=high&ex=mp4
+#EXTINF:0,29
+http://ru-porn.tv/videofile?id=10792&hq=medium&ex=mp4
+#EXTINF:0,30
+http://ru-porn.tv/videofile?id=10800&hq=low&ex=mp4
+#EXTINF:0,31
+http://ru-porn.tv/videofile?id=10777&hq=low&ex=mp4
+#EXTINF:0,32
+http://ru-porn.tv/videofile?id=10785&hq=high&ex=mp4
+#EXTINF:0,33
+http://ru-porn.tv/videofile?id=10711&hq=high&ex=mp4
+#EXTINF:0,34
+http://ru-porn.tv/videofile?id=10696&hq=medium&ex=mp4
+#EXTINF:0,35
+http://ru-porn.tv/videofile?id=10695&hq=medium&ex=mp4
+#EXTINF:0,36
+http://ru-porn.tv/videofile?id=10704&hq=high&ex=mp4
+#EXTINF:0,37
+http://ru-porn.tv/videofile?id=10703&hq=medium&ex=mp4
+#EXTINF:0,38
+http://ru-porn.tv/videofile?id=10668&hq=medium&ex=mp4
+#EXTINF:0,39
+http://ru-porn.tv/videofile?id=10639&hq=medium&ex=mp4
+#EXTINF:0,40
+http://ru-porn.tv/videofile?id=10630&hq=medium&ex=mp4
+#EXTINF:0,41
+http://ru-porn.tv/videofile?id=10641&hq=medium&ex=mp4
+#EXTINF:0,42
+http://ru-porn.tv/videofile?id=10660&hq=medium&ex=mp4
+#EXTINF:0,43
+http://ru-porn.tv/videofile?id=10616&hq=medium&ex=mp4
+#EXTINF:0,44
+http://ru-porn.tv/videofile?id=10608&hq=high&ex=mp4
+#EXTINF:0,45
+http://ru-porn.tv/videofile?id=10607&hq=high&ex=mp4
+#EXTINF:0,46
+http://ru-porn.tv/videofile?id=10598&hq=medium&ex=mp4
+#EXTINF:0,47
+http://ru-porn.tv/videofile?id=10591&hq=medium&ex=mp4
+#EXTINF:0,48
+http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
+#EXTINF:0,49
+http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
+#EXTINF:0,50
+http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
